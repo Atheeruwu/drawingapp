@@ -43,4 +43,6 @@
    ```javascript
    resizeCanvas(window.innerWidth - 60, window.innerHeight);  // Resizes canvas when window is resized
    ```
+![drawing 11](https://github.com/user-attachments/assets/27746b15-10bf-48b2-a469-42e620c39d79)
+
 
